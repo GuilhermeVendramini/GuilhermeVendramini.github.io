@@ -5,6 +5,8 @@ file:///home/gvs/apps/portfolio/lib/src/app_bloc.dart
 file:///home/gvs/apps/portfolio/lib/src/app_module.dart
 file:///home/gvs/apps/portfolio/lib/src/app_page.dart
 file:///home/gvs/apps/portfolio/lib/src/app_theme.dart
+file:///home/gvs/apps/portfolio/lib/src/data/works_data.dart
+file:///home/gvs/apps/portfolio/lib/src/shared/models/work_model.dart
 file:///home/gvs/apps/portfolio/lib/src/shared/widgets/background_image.dart
 file:///home/gvs/apps/portfolio/lib/src/shared/widgets/default_appbar.dart
 file:///home/gvs/apps/portfolio/lib/src/shared/widgets/default_drawer.dart
@@ -13,6 +15,7 @@ file:///home/gvs/apps/portfolio/lib/src/shared/widgets/introduction_box.dart
 file:///home/gvs/apps/portfolio/lib/src/shared/widgets/profile_box.dart
 file:///home/gvs/apps/portfolio/lib/src/shared/widgets/social_box.dart
 file:///home/gvs/apps/portfolio/lib/src/shared/widgets/work_box.dart
+file:///home/gvs/apps/portfolio/lib/src/shared/widgets/work_card.dart
 file:///home/gvs/development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/collection.dart
 file:///home/gvs/development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/algorithms.dart
 file:///home/gvs/development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/canonicalized_map.dart
